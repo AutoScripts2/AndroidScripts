@@ -1,0 +1,8 @@
+<title>自刷 点击小沙盒 启动广告</title>
+<repeat>1</repeat>
+<icon></icon>
+<count>1</count>
+<log>0</log>
+<data>%7B%22actions%22%3A%5B%7B%22actionType%22%3A52%2C%22witeTime%22%3A%220%22%2C%22param%22%3A%7B%7D%2C%22trueDo%22%3A%7B%22actions%22%3A%5B%7B%22actionType%22%3A12%2C%22witeTime%22%3A%227000%22%2C%22param%22%3A%7B%22packName%22%3A%22com.littlesandbox.clicksandbox%22%2C%22action%22%3A0%7D%2C%22appName%22%3A%22%E7%82%B9%E5%87%BB%E5%B0%8F%E6%B2%99%E7%9B%92%22%7D%2C%7B%22actionType%22%3A4%2C%22witeTime%22%3A%22500%22%2C%22param%22%3A%7B%7D%7D%2C%7B%22actionType%22%3A4%2C%22witeTime%22%3A%22500%22%2C%22param%22%3A%7B%7D%7D%2C%7B%22actionType%22%3A51%2C%22witeTime%22%3A%220%22%2C%22param%22%3A%7B%22min%22%3A%220%22%2C%22max%22%3A%223468%22%7D%7D%5D%7D%2C%22conditions%22%3A%5B%7B%22actionType%22%3A72%2C%22param%22%3A%7B%22value%22%3A%22true%22%2C%22assgin%22%3A0%2C%22var%22%3A%22t%22%7D%7D%5D%7D%5D%2C%22variables%22%3A%5B%7B%22name%22%3A%22t%22%2C%22value%22%3A%22true%22%2C%22type%22%3A3%7D%5D%2C%22scale_width%22%3A720%2C%22scale_height%22%3A1280%7D</data>
+<status>0</status>
+<type>0</type>
